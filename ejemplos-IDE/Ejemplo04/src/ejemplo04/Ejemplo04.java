@@ -18,9 +18,22 @@ public class Ejemplo04 {
         // Manejo de operadores y expresiones en
         // lenguaje de alto nivel.
         System.out.println("----------------");
-        int variable = 10 + 10;
-        System.out.println(variable);
+        int variable1 = 10 + 10;
+        System.out.println(variable1);
         
+        System.out.println("----------------");
+        double variable2 = 10 * 10;
+        System.out.println(variable2);
+        
+        System.out.println("----------------");
+        double variable3 = 10.2 * 10.9;
+        System.out.println(variable3);
+        
+        System.out.println("----------------");
+        String variable4 = "10" + "10"; // 10 10
+        System.out.println(variable4);
+        
+        /*
         System.out.println("----------------");
         int variable2 = 10 * 10;
         System.out.println(variable2);
@@ -31,7 +44,7 @@ public class Ejemplo04 {
         
         System.out.println("----------------");
         String variable4 = "10" + "10";
-        System.out.println(variable4);
+        System.out.println(variable4); */
         
         
     }

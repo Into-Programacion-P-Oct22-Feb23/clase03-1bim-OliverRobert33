@@ -19,6 +19,18 @@ public class Ejemplo03 {
         
         // Tipo de datos Entero
         
+        /*
+        q
+        q
+        q
+        q
+        q
+        q
+        q
+        q
+        q
+        */
+        
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
@@ -45,6 +57,7 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+        va
     }
     
 }
